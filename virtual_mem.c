@@ -81,22 +81,8 @@ int main(int argc, char *argv[]) {
        store_file = "BACKING_STORE.bin"; // internal initizlization
 
 
-       if ((in_ptr = fopen(in_file, "r")) == NULL) {
-
-           printf("Input file could not be opened.\n");
-
-           exit(EXIT_FAILURE);
-       }
-
-
        store_fd = open(store_file, O_RDONLY);
         store_data = mmap(0, MEM_SIZE, PROT_READ, MAP_SHARED, store_fd, 0);
-
-        if (store_data == MAP_FAILED) {
-            close(store_fd);
-            printf("Error mmapping the backing store file!");
-            exit(EXIT_FAILURE);
-          }
 
        while (fgets(line, sizeof(line), in_ptr)) {
          logical = atoi(line);
