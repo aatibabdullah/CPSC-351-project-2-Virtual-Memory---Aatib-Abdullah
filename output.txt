@@ -1,5 +1,210 @@
-NOTE: the command prompt cuts off the first half of the output
+logical: 16916 (page: 66, offset: 20) ---> physical:    20 -- passed
+logical: 62493 (page:244, offset: 29) ---> physical:   285 -- passed
+logical: 30198 (page:117, offset:246) ---> physical:   758 -- passed
+logical: 53683 (page:209, offset:179) ---> physical:   947 -- passed
+logical: 40185 (page:156, offset:249) ---> physical:  1273 -- passed
 
+logical: 28781 (page:112, offset:109) ---> physical:  1389 -- passed
+logical: 24462 (page: 95, offset:142) ---> physical:  1678 -- passed
+logical: 48399 (page:189, offset: 15) ---> physical:  1807 -- passed
+logical: 64815 (page:253, offset: 47) ---> physical:  2095 -- passed
+logical: 18295 (page: 71, offset:119) ---> physical:  2423 -- passed
+
+logical: 12218 (page: 47, offset:186) ---> physical:  2746 -- passed
+logical: 22760 (page: 88, offset:232) ---> physical:  3048 -- passed
+logical: 57982 (page:226, offset:126) ---> physical:  3198 -- passed
+logical: 27966 (page:109, offset: 62) ---> physical:  3390 -- passed
+logical: 54894 (page:214, offset:110) ---> physical:  3694 -- passed
+
+logical: 38929 (page:152, offset: 17) ---> physical:  3857 -- passed
+logical: 32865 (page:128, offset: 97) ---> physical:  4193 -- passed
+logical: 64243 (page:250, offset:243) ---> physical:  4595 -- passed
+logical:  2315 (page:  9, offset: 11) ---> physical:  4619 -- passed
+logical: 64454 (page:251, offset:198) ---> physical:  5062 -- passed
+
+logical: 55041 (page:215, offset:  1) ---> physical:  5121 -- passed
+logical: 18633 (page: 72, offset:201) ---> physical:  5577 -- passed
+logical: 14557 (page: 56, offset:221) ---> physical:  5853 -- passed
+logical: 61006 (page:238, offset: 78) ---> physical:  5966 -- passed
+logical: 62615 (page:244, offset:151) ---> physical:   407 -- passed
+
+logical:  7591 (page: 29, offset:167) ---> physical:  6311 -- passed
+logical: 64747 (page:252, offset:235) ---> physical:  6635 -- passed
+logical:  6727 (page: 26, offset: 71) ---> physical:  6727 -- passed
+logical: 32315 (page:126, offset: 59) ---> physical:  6971 -- passed
+logical: 60645 (page:236, offset:229) ---> physical:  7397 -- passed
+
+logical:  6308 (page: 24, offset:164) ---> physical:  7588 -- passed
+logical: 45688 (page:178, offset:120) ---> physical:  7800 -- passed
+logical:   969 (page:  3, offset:201) ---> physical:  8137 -- passed
+logical: 40891 (page:159, offset:187) ---> physical:  8379 -- passed
+logical: 49294 (page:192, offset:142) ---> physical:  8590 -- passed
+
+logical: 41118 (page:160, offset:158) ---> physical:  8862 -- passed
+logical: 21395 (page: 83, offset:147) ---> physical:  9107 -- passed
+logical:  6091 (page: 23, offset:203) ---> physical:  9419 -- passed
+logical: 32541 (page:127, offset: 29) ---> physical:  9501 -- passed
+logical: 17665 (page: 69, offset:  1) ---> physical:  9729 -- passed
+
+logical:  3784 (page: 14, offset:200) ---> physical: 10184 -- passed
+logical: 28718 (page:112, offset: 46) ---> physical:  1326 -- passed
+logical: 59240 (page:231, offset:104) ---> physical: 10344 -- passed
+logical: 40178 (page:156, offset:242) ---> physical:  1266 -- passed
+logical: 60086 (page:234, offset:182) ---> physical: 10678 -- passed
+
+logical: 42252 (page:165, offset: 12) ---> physical: 10764 -- passed
+logical: 44770 (page:174, offset:226) ---> physical: 11234 -- passed
+logical: 22514 (page: 87, offset:242) ---> physical: 11506 -- passed
+logical:  3067 (page: 11, offset:251) ---> physical: 11771 -- passed
+logical: 15757 (page: 61, offset:141) ---> physical: 11917 -- passed
+
+logical: 31649 (page:123, offset:161) ---> physical: 12193 -- passed
+logical: 10842 (page: 42, offset: 90) ---> physical: 12378 -- passed
+logical: 43765 (page:170, offset:245) ---> physical: 12789 -- passed
+logical: 33405 (page:130, offset:125) ---> physical: 12925 -- passed
+logical: 44954 (page:175, offset:154) ---> physical: 13210 -- passed
+
+logical: 56657 (page:221, offset: 81) ---> physical: 13393 -- passed
+logical:  5003 (page: 19, offset:139) ---> physical: 13707 -- passed
+logical: 50227 (page:196, offset: 51) ---> physical: 13875 -- passed
+logical: 19358 (page: 75, offset:158) ---> physical: 14238 -- passed
+logical: 36529 (page:142, offset:177) ---> physical: 14513 -- passed
+
+logical: 10392 (page: 40, offset:152) ---> physical: 14744 -- passed
+logical: 58882 (page:230, offset:  2) ---> physical: 14850 -- passed
+logical:  5129 (page: 20, offset:  9) ---> physical: 15113 -- passed
+logical: 58554 (page:228, offset:186) ---> physical: 15546 -- passed
+logical: 58584 (page:228, offset:216) ---> physical: 15576 -- passed
+
+logical: 27444 (page:107, offset: 52) ---> physical: 15668 -- passed
+logical: 58982 (page:230, offset:102) ---> physical: 14950 -- passed
+logical: 51476 (page:201, offset: 20) ---> physical: 15892 -- passed
+logical:  6796 (page: 26, offset:140) ---> physical:  6796 -- passed
+logical: 21311 (page: 83, offset: 63) ---> physical:  9023 -- passed
+
+logical: 30705 (page:119, offset:241) ---> physical: 16369 -- passed
+logical: 28964 (page:113, offset: 36) ---> physical: 16420 -- passed
+logical: 41003 (page:160, offset: 43) ---> physical:  8747 -- passed
+logical: 20259 (page: 79, offset: 35) ---> physical: 16675 -- passed
+logical: 57857 (page:226, offset:  1) ---> physical:  3073 -- passed
+
+logical: 63258 (page:247, offset: 26) ---> physical: 16922 -- passed
+logical: 36374 (page:142, offset: 22) ---> physical: 14358 -- passed
+logical:   692 (page:  2, offset:180) ---> physical: 17332 -- passed
+logical: 43121 (page:168, offset:113) ---> physical: 17521 -- passed
+logical: 48128 (page:188, offset:  0) ---> physical: 17664 -- passed
+
+logical: 34561 (page:135, offset:  1) ---> physical: 17921 -- passed
+logical: 49213 (page:192, offset: 61) ---> physical:  8509 -- passed
+logical: 36922 (page:144, offset: 58) ---> physical: 18234 -- passed
+logical: 59162 (page:231, offset: 26) ---> physical: 10266 -- passed
+logical: 50552 (page:197, offset:120) ---> physical: 18552 -- passed
+
+logical: 17866 (page: 69, offset:202) ---> physical:  9930 -- passed
+logical: 18145 (page: 70, offset:225) ---> physical: 18913 -- passed
+logical:  3884 (page: 15, offset: 44) ---> physical: 18988 -- passed
+logical: 54388 (page:212, offset:116) ---> physical: 19316 -- passed
+logical: 42932 (page:167, offset:180) ---> physical: 19636 -- passed
+
+logical: 46919 (page:183, offset: 71) ---> physical: 19783 -- passed
+logical: 58892 (page:230, offset: 12) ---> physical: 14860 -- passed
+logical:  8620 (page: 33, offset:172) ---> physical: 20140 -- passed
+logical: 38336 (page:149, offset:192) ---> physical: 20416 -- passed
+logical: 64357 (page:251, offset:101) ---> physical:  4965 -- passed
+
+logical: 23387 (page: 91, offset: 91) ---> physical: 20571 -- passed
+logical: 42632 (page:166, offset:136) ---> physical: 20872 -- passed
+logical: 15913 (page: 62, offset: 41) ---> physical: 21033 -- passed
+logical: 15679 (page: 61, offset: 63) ---> physical: 11839 -- passed
+logical: 22501 (page: 87, offset:229) ---> physical: 11493 -- passed
+
+logical: 37540 (page:146, offset:164) ---> physical: 21412 -- passed
+logical:  5527 (page: 21, offset:151) ---> physical: 21655 -- passed
+logical: 63921 (page:249, offset:177) ---> physical: 21937 -- passed
+logical: 62716 (page:244, offset:252) ---> physical:   508 -- passed
+logical: 32874 (page:128, offset:106) ---> physical:  4202 -- passed
+
+logical: 64390 (page:251, offset:134) ---> physical:  4998 -- passed
+logical: 63101 (page:246, offset:125) ---> physical: 22141 -- passed
+logical: 61802 (page:241, offset:106) ---> physical: 22378 -- passed
+logical: 19648 (page: 76, offset:192) ---> physical: 22720 -- passed
+logical: 29031 (page:113, offset:103) ---> physical: 16487 -- passed
+
+logical: 44981 (page:175, offset:181) ---> physical: 13237 -- passed
+logical: 28092 (page:109, offset:188) ---> physical:  3516 -- passed
+logical:  9448 (page: 36, offset:232) ---> physical: 23016 -- passed
+logical: 44744 (page:174, offset:200) ---> physical: 11208 -- passed
+logical: 61496 (page:240, offset: 56) ---> physical: 23096 -- passed
+
+logical: 31453 (page:122, offset:221) ---> physical: 23517 -- passed
+logical: 60746 (page:237, offset: 74) ---> physical: 23626 -- passed
+logical: 12199 (page: 47, offset:167) ---> physical:  2727 -- passed
+logical: 62255 (page:243, offset: 47) ---> physical: 23855 -- passed
+logical: 21793 (page: 85, offset: 33) ---> physical: 24097 -- passed
+
+logical: 26544 (page:103, offset:176) ---> physical: 24496 -- passed
+logical: 14964 (page: 58, offset:116) ---> physical: 24692 -- passed
+logical: 41462 (page:161, offset:246) ---> physical: 25078 -- passed
+logical: 56089 (page:219, offset: 25) ---> physical: 25113 -- passed
+logical: 52038 (page:203, offset: 70) ---> physical: 25414 -- passed
+
+logical: 47982 (page:187, offset:110) ---> physical: 25710 -- passed
+logical: 59484 (page:232, offset: 92) ---> physical: 25948 -- passed
+logical: 50924 (page:198, offset:236) ---> physical: 26348 -- passed
+logical:  6942 (page: 27, offset: 30) ---> physical: 26398 -- passed
+logical: 34998 (page:136, offset:182) ---> physical: 26806 -- passed
+
+logical: 27069 (page:105, offset:189) ---> physical: 27069 -- passed
+logical: 51926 (page:202, offset:214) ---> physical: 27350 -- passed
+logical: 60645 (page:236, offset:229) ---> physical:  7397 -- passed
+logical: 43181 (page:168, offset:173) ---> physical: 17581 -- passed
+logical: 10559 (page: 41, offset: 63) ---> physical: 27455 -- passed
+
+logical:  4664 (page: 18, offset: 56) ---> physical: 27704 -- passed
+logical: 28578 (page:111, offset:162) ---> physical: 28066 -- passed
+logical: 59516 (page:232, offset:124) ---> physical: 25980 -- passed
+logical: 38912 (page:152, offset:  0) ---> physical:  3840 -- passed
+logical: 63562 (page:248, offset: 74) ---> physical: 28234 -- passed
+
+logical: 64846 (page:253, offset: 78) ---> physical:  2126 -- passed
+logical: 62938 (page:245, offset:218) ---> physical: 28634 -- passed
+logical: 27194 (page:106, offset: 58) ---> physical: 28730 -- passed
+logical: 28804 (page:112, offset:132) ---> physical:  1412 -- passed
+logical: 61703 (page:241, offset:  7) ---> physical: 22279 -- passed
+
+logical: 10998 (page: 42, offset:246) ---> physical: 12534 -- passed
+logical:  6596 (page: 25, offset:196) ---> physical: 29124 -- passed
+logical: 37721 (page:147, offset: 89) ---> physical: 29273 -- passed
+logical: 43430 (page:169, offset:166) ---> physical: 29606 -- passed
+logical: 22692 (page: 88, offset:164) ---> physical:  2980 -- passed
+
+logical: 62971 (page:245, offset:251) ---> physical: 28667 -- passed
+logical: 47125 (page:184, offset: 21) ---> physical: 29717 -- passed
+logical: 52521 (page:205, offset: 41) ---> physical: 29993 -- passed
+logical: 34646 (page:135, offset: 86) ---> physical: 18006 -- passed
+logical: 32889 (page:128, offset:121) ---> physical:  4217 -- passed
+
+logical: 13055 (page: 50, offset:255) ---> physical: 30463 -- passed
+logical: 65416 (page:255, offset:136) ---> physical: 30600 -- passed
+logical: 62869 (page:245, offset:149) ---> physical: 28565 -- passed
+logical: 57314 (page:223, offset:226) ---> physical: 30946 -- passed
+logical: 12659 (page: 49, offset:115) ---> physical: 31091 -- passed
+
+logical: 14052 (page: 54, offset:228) ---> physical: 31460 -- passed
+logical: 32956 (page:128, offset:188) ---> physical:  4284 -- passed
+logical: 49273 (page:192, offset:121) ---> physical:  8569 -- passed
+logical: 50352 (page:196, offset:176) ---> physical: 14000 -- passed
+logical: 49737 (page:194, offset: 73) ---> physical: 31561 -- passed
+
+logical: 15555 (page: 60, offset:195) ---> physical: 31939 -- passed
+logical: 47475 (page:185, offset:115) ---> physical: 32115 -- passed
+logical: 15328 (page: 59, offset:224) ---> physical: 32480 -- passed
+logical: 34621 (page:135, offset: 61) ---> physical: 17981 -- passed
+logical: 51365 (page:200, offset:165) ---> physical: 32677 -- passed
+
+logical: 32820 (page:128, offset: 52) ---> physical:  4148 -- passed
+logical: 48855 (page:190, offset:215) ---> physical: 32983 -- passed
+logical: 12224 (page: 47, offset:192) ---> physical:  2752 -- passed
 logical:  2035 (page:  7, offset:243) ---> physical: 33267 -- passed
 logical: 60539 (page:236, offset:123) ---> physical:  7291 -- passed
 
