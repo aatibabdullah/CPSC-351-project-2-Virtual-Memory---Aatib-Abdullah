@@ -80,6 +80,12 @@ int main(int argc, char *argv[]) {
        //out_file = argv[2];
        store_file = "BACKING_STORE.bin"; // internal initizlization
 
+       if((in_ptr = fopen(in_file, "r"))==NULL){ // this initializes the in_ptr, however it also is part of condition
+       
+       printf("The file cannot be read");
+           exit(EXIT_FAILURE);
+       }
+       
 
        store_fd = open(store_file, O_RDONLY);
         store_data = mmap(0, MEM_SIZE, PROT_READ, MAP_SHARED, store_fd, 0);
