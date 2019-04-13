@@ -17,6 +17,9 @@
 #define MEM_SIZE (FRAME_SIZE * FRAME_ENTRIES)
 #define TLB_ENTRIES 16
 
+#define ARGC_ERROR 1
+#define FILE_ERROR 2
+
 int logical;
 int page_num;
 int offset;
@@ -60,9 +63,14 @@ int main(int argc, char *argv[]) {
     init_page_table(-1);
     init_tlb(-1);
 
-    if (argc != 2) {
-       printf("Enter input, output, and store file names!");
+    if (argc != ARGC_ERROR) {
+       printf("Enter ./virtual_mem addresses.txt!");
+       exit(EXIT_FAILURE);
+   }
 
+    
+    if (argc != FILE_ERRO) {
+       printf("Enter addresses.txt!");
        exit(EXIT_FAILURE);
    }
 
